@@ -1,6 +1,6 @@
 Name:           radeon-profile
 Version:        20200824
-Release:        1
+Release:        2
 Summary:        Application to read current clocks of ATi Radeon cards (xf86-video-ati, xf86-video-amdgpu) 
 License:        GPL2.0
 Group:          System/Configuration/Hardware
